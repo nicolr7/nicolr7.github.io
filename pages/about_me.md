@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Making a personal site
-description: How to make a personal web page with GitHub Pages
+title: about me
+description: 
 ---
 
 Your [GitHub Pages](https://pages.github.com) sites will appear at
